@@ -1,0 +1,18 @@
+# Core dependencies - Updated for Python 3.13 compatibility
+streamlit==1.29.0
+pandas==2.2.3  # Updated to latest version with Python 3.13 support
+numpy==2.1.3   # Updated to latest version with Python 3.13 support
+
+# Excel file handling
+openpyxl==3.1.5  # Updated to latest
+xlrd==2.0.1
+
+# Data visualization
+plotly==5.24.1  # Updated to latest
+
+# Date and time handling
+python-dateutil==2.9.0.post0  # Updated to latest
+
+# Additional utilities
+# Note: unicodedata2 is optional - Python has unicodedata built-in
+# unicodedata2==15.1.0
